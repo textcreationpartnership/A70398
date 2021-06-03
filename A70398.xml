@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Satisfaction for all such as oppose reformation in a confutation of twelve practices of popery proved to be condemned by Christ and his apostles : with an answer also made to Mr. Oddy's objections which he wrote against the Covenant : to which is also added a true character of the Covenant / written by W. Kaye.</title>
+            <author>Kaye, William.</author>
+         </titleStmt>
+         <extent>Approx. 96 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70398</idno><idno type="EEBO-CITATION">8776658_41772</idno>
+  <idno type="VID">41772</idno>
+  <idno type="EEBO-PROQUEST">2264212878</idno>
+  
+            <idno type="STC">Wing K40A</idno>
+            <idno type="STC">ESTC R25127</idno>
+            <idno type="OCLC">08776658</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A70398)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41772)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1262:8 or 280:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Satisfaction for all such as oppose reformation in a confutation of twelve practices of popery proved to be condemned by Christ and his apostles : with an answer also made to Mr. Oddy's objections which he wrote against the Covenant : to which is also added a true character of the Covenant / written by W. Kaye.</title>
+                  <author>Kaye, William.</author>
+               </titleStmt>
+               <extent>32, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Tho. Broad and to be sold by Nathaniel Bro[o]kes in London,</publisher>
+                  <pubPlace>Printed at Yorke :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Oddy, --  Mr. --  Scruples.</term>
+               <term type="corporate_name">Catholic Church --  Controversial literature.</term>
+               <term type="uniform_title">Solemn League and Covenant (1643)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41772:1"/>
+            <p>SATISFACTION For all such as oppose REFORMATION, In a Confutation of twelve Practices of Pope<g ref="char:EOLhyphen"/>ry, proved to be condemned by Christ and his Apostles.</p>
+            <p>With an Answer also made to Mr: <hi>Oddy's</hi> Ob<g ref="char:EOLhyphen"/>jections which he wrote against the Covenant.</p>
+            <p>To which is also is added a true character of the <hi>CONENANT.</hi>
+            </p>
+            <p>Written by <hi>W. Kaye</hi> Minister of Gods Word at <hi>Stokesley.</hi>
+            </p>
+            <q>
+               <p>God shall send them strong delusions that they shall beleeve a lye.</p>
+               <bibl>
+                  <hi>2 Thes. 2.11, 12.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Ecclesiae nomine Armamim, et contra Ecclesiam Dimicatis.</p>
+               <bibl>
+                  <hi>Leo. epist. 38. ad Palist.</hi>
+               </bibl>
+            </q>
+            <p>Printed at <hi>Yorke</hi> by <hi>Tho Broaed,</hi> and to be sold, by <hi>Nathanniel Bro<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kes</hi> in <hi>London,</hi> at the Angell in Cornhil. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dedication">
+            <pb facs="tcp:41772:2"/>
+            <pb n="1" facs="tcp:41772:2"/>
+            <head>The Epistle Dedicatory.</head>
+            <head>To all Reformed Protestants faithfully united in the solemne League or Nationall Covenant.</head>
+            <p>IF Saint <hi>Lukes</hi> example in presenting his Gospell to excellent <hi>Theo<g ref="char:EOLhyphen"/>philus,</hi> become a president for others to imitate; Then could I never (being provoked to write) have made such a choyce, as through the union of one Covenant, to implore the patronage of the supreme Judicato<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies, or Courts of Parliaments in <hi>England</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> resplendent for Noblemen, Magistrates and Gentry, by whose wise Councels, faithfull renowned men for Pie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie and Valour, fight the Battails of the Lord for the settlement of Peace, while the reverend Assembly study to finde out the Truth, &amp;c. both which to see united as to kisse each other. The faithfull Commons ingaged in the same Covenant, make themselves upon all occasione a plentifull Magazen, that, according to the Covenant, they might see an union of King and Parliament in the Reformation of Church and State. To all you therefore from the highest to the lowest within the three Dominions of <hi>England, Scotland</hi> and <hi>Ireland,</hi> and to whomsoever the Covenant hath been tendred, to you I most humbly Dedicate these my poore Labours, which in both respects I was necessitated to publish, which I desire may as much paliate my presumption, as remonstrate my affection, which is all I can shew: and to that the least of you hath such an interest, and in conscience you are reciprocally engaged, that I have sworne to sacrifice my life, which were it never so precious, I would contemne, with faithfulnesse to performe that great duty which is taught,<note place="margin">1 <hi>Iohn</hi> 16.</note>
+               <hi>To * lay down our lives for our Brethren.</hi>
+            </p>
+            <p>Let me therefore as one of Gods watchmen presume to beg this fa<g ref="char:EOLhyphen"/>vour
+<pb n="2" facs="tcp:41772:3"/>of you, to observe Gods going in and out among us; how before the Covenant was made we were in a low condition, as from the bur<g ref="char:EOLhyphen"/>then of my soule I had often declared to fall out, and yet that in the lowest condition, if we truely covenanted with God, we should be ad<g ref="char:EOLhyphen"/>vanced, and so continue in prosperity, except we turned our backes on the Covenant: and that it was thus with us, I desire to present unto you such Verses which were given me from the hand of a most worthy eminent Gentleman for gifts and pietie, which himself composed up<g ref="char:EOLhyphen"/>on our great victory at Marston-moore.</p>
+            <q>
+               <l>Cast but an eye on <hi>Iuly</hi> forty three,</l>
+               <l>Looke on poore <hi>Yorkshire</hi> then, and now, and see</l>
+               <l>If ere it can be thought in vaine to waire</l>
+               <l>Upon our God, even in the greatest straite,</l>
+               <l>Poore <hi>Leeds</hi> and <hi>Bradford</hi> lost, our Armies shatter'd,</l>
+               <l>Our men like sheep upon the mountaines scatter'd.</l>
+               <l>All hope extinct, one Sparke with much adoe</l>
+               <l>Was left;<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ull.</note> and that * rak't up in water too.</l>
+               <l>See now dry bones reviv'd, see now and wonder,</l>
+               <l>Those get alost, that then were all kept under;</l>
+               <l>See Nimrods chas'd, the spoylers spoyl'd, see now,</l>
+               <l>How the proud Lady of the North's brought low:</l>
+               <l>Lord keep us humble, help us trust thee still,</l>
+               <l>In thy good time what's yet behinde fulfill.</l>
+            </q>
+            <p>Therefore now let us not forget that wee never prospered till wee made a Covenant; It was our Asylum when most of the Kingdome was lost and our strong holds were taken, it was our Treasure when money could hardly be procured, and it hath proved the best meanes to seek reconciliation (through Christ) with God, so justly provoked for our long continuing in unthankfulnesse, unfruitfulnesse, Supersti<g ref="char:EOLhyphen"/>tion, spirituall deadnesse and abominations, and especially in the to<g ref="char:EOLhyphen"/>lerating of Popery, &amp;c. Can we then forget or neglect to see this Co<g ref="char:EOLhyphen"/>venant (the meanes of procuring Gods favour) not above all things tendered &amp; carefully observed; shall the fervour of our zeale be cooled by the opposition of scruples, and nice and causelesse pretences, sug<g ref="char:EOLhyphen"/>gested by knowne enemies or pretended friends? let me tell you both
+<pb n="3" facs="tcp:41772:3"/>of them have one and the same end, to take away our garments from us, drive us from our strongest Bulwarke, rob us of our richest trea<g ref="char:EOLhyphen"/>sure, and pull downe the foundation of that building, that by the fall thereof they might see at least the ruine of three Kingdoms. It be<g ref="char:EOLhyphen"/>hooves us therefore above all things to be carefull that those that have put their hands to the Plough looke not backe: In the name there<g ref="char:EOLhyphen"/>fore of the high and mighty God, let us in all faith and sincerity kee<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our vowes, unto whom we have holden up our hands and solemnely sworne in these very words, <q>To assist and defend all those that enter into this League and Covenant, in maintaining and pursuing there<g ref="char:EOLhyphen"/>of, and shall not suffer our selves directly nor indirectly by whatsoe<g ref="char:EOLhyphen"/>ver combination, perswasion or terrour, to be divided from this bles<g ref="char:EOLhyphen"/>sed union or conjunction, &amp;c.</q> Which words if they were written in our hearts,<note place="margin">
+                  <hi>Neh.</hi> 38.</note> we should make ours (as <hi>Nehemiah</hi> made his) a sure Co<g ref="char:EOLhyphen"/>venant, notwithstanding like vertue, it stands opposite to the vicious Extreames of Popery, Prelacie, Superstition, Heresie, Schismes, Pro<g ref="char:EOLhyphen"/>phanenesse and Oppression, it may be upholden by the hand of Justice, and so highly esteemed, that without it, (as it was first ordained) no Officer may ever enter into the Church or State; and such as for by ends take it and afterwards renounce or deprave it, may receive no more benefit by it, then the <hi>Gibeonites</hi> did for their false covenant and pretences, for which they were by God ordained to slavery. That in the execution of the Covenant we may see Antichrist or Popery throwne down, King and Parliament in the observation thereof uni<g ref="char:EOLhyphen"/>ted, whereby Christs kingdome may be advanced, to the glory of God, and the union and preservation of his people, which shall ever he most faithfully endeavoured,</p>
+            <closer>
+               <signed>By yours,<lb/>
+                  <hi>In the blessed Ʋnion, Association<lb/> or Covenant.</hi>
+                  <lb/> Most faithfull Servant, Friend or Bro<g ref="char:EOLhyphen"/>ther,<lb/> to love and honour you,<lb/>
+                  <hi>W. Kaye.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="treatise">
+            <pb n="4" facs="tcp:41772:4"/>
+            <head>A plaine Confutation of twelve Antichristian practices of Popery, discovered and also utely condemited by the very words of Christ himselfe, and his holy Apostles.</head>
+            <p>
+               <note place="margin">Popish <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ractice.</note>THe first Popish practice, is, <hi>To make Images or Pictures for a religions use, as instruments or means whereby to worship God or his Saints.</hi>
+            </p>
+            <p>That God condemnes such heathenish Idolatry, to worship God by the likenesse of any thing in heaven above, or in the earth beneath, * Christ himselfe plainly teacheth us the contrary,<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>o.</hi> 4.24</note> saying, <hi>God is a Spirit, and they that will worship him, must worship him in truth and in sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rit.</hi> Whereby the use of all pictures, as instruments to worship God by, are absolutely condemned: the booke of conscience and the spirit of prayer stirring up the soule to reverence or filiall feare of the divine Majesty, feele of our owne wants, and a holy thirst to him, all supplied through Christs merits and mediation, is all the pictures or chiefest helps that we must looke for. And that there is no Religious use of Images, but on the contrary, that they are absolutely condem<g ref="char:EOLhyphen"/>ned, its written * <hi>Neither shalt thou set up any Image which the Lord thy God hateth;</hi>
+               <note place="margin">
+                  <hi>Deut.</hi> 6.22.</note> that therefore which the Papists superstitiously dote upon, that the Lord hateth as a sin most derogatory to the glory of God. which God saith, he will not give unto any other; and therefore doth spiritually * judge Idolaters as he hath declared out of his holy word,<note place="margin">
+                  <hi>Rom.</hi> 1.2, 23. <hi>Ps.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.11, 12 <hi>Rev.</hi> 22 5.</note> whereby also he commandeth not to suffer an * Idolater to live in the world, and hath also determined damnation for Idolaters that repent not in this world; which sin, neither Jew nor Turk dare presume to commit, and yet the Papists never make question, for to make way for their Idolatry, to put out the second Commandement, whereby all the curses in the Scripture are pronounced against them; and indeed if this sin should be tollerated even in Papists, as it was smoothly practised by our late Innovatours in their bowing at the Altar, wee can expect no blessing to our Nation; therefore let all hearken to the Prophet * <hi>Sa<g ref="char:EOLhyphen"/>muels</hi> good councell,<note place="margin">
+                  <hi>Sam.</hi> 3, 4, 5.</note> saying, <hi>If you will returne unto the Lord with all your bea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts, then put away the strange gods, and Ashtereth from among you, and serve the Lord onely, and he will deliver you out of the hands of the Philist<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ms.</hi> For I<g ref="char:EOLhyphen"/>dolatry and Christianity cannot stand together, no more then the Ark
+<pb n="5" facs="tcp:41772:4"/>and Dagon; if God be God, O ye Papists, worship him, as Christ com<g ref="char:EOLhyphen"/>mandeth you, in truth and in spirit; throw away your pictures, stamp your images to powder, bewaile your former blindnesse, continue no longer in your Idolatry, for those of you which are ordained to salva<g ref="char:EOLhyphen"/>tion will repent of Idolatry, and the rest will not, as Christ hath pro<g ref="char:EOLhyphen"/>phesied, read <hi>Rev.</hi> 9.20. Neither be content ye that are more learned with a poore fantasticall<note n="*" place="margin">Douli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> latria.</note> distinction, which is nothing but to reply against Gods Commandements, and to teach you to be Idolaters, for whom without repentance there is nothing (I must againe tell you) to be expected but the damnation of hell.</p>
+            <p>THe second p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>actice of Popery, is,<note place="margin">
+                  <hi>2</hi> Popish practice.</note>
+               <hi>The prohibiting the people to receive the S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>crament in both kinds, dobarring them of the use of the Cup, where<g ref="char:EOLhyphen"/>by th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y defend other absurdities, as also in corrupting the Sacrament of Baptism.</hi>
+            </p>
+            <p>That the practices of Antichrist or the Romish Church, or Papists, are contrary to Christ and his blessed Apostles, I desire to shew that Christ himselfe commanded that all should drinke the cup in remem<g ref="char:EOLhyphen"/>brance of him, so that Saint <hi>Paul</hi> (who saith that as hee received the Sacrament of the Lord, so he did administer) exhorteth the <hi>Corinthians</hi> in these words,<note n="*" place="margin">1 <hi>Cor.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1 28.</note>
+               <hi>But let a man examine himselfe and so let him eat of that bread and drinke of that cup:</hi> therefore, as in all other respects, so especi<g ref="char:EOLhyphen"/>ally in the use of the Sacraments, God is no respecter of persons, as the Papists would foolishly conceit, neither can one beleeve nor receive for another, as in most absurd private Masses, which is like their oath in <hi>Animam Domini,</hi> which the first glimmering of appearance of light of Reformation condemned, <hi>But he that eateth and drinketh unwor<g ref="char:EOLhyphen"/>thily, eateth and drinketh damnation to himselfe:</hi> so that receiving the Sa<g ref="char:EOLhyphen"/>crament concerns no man but himself, well therefore doth <hi>Gelatius</hi> call this taking of the Cup from the people, Sacriledge, which absurdly the Papists ind<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vouring to prevent, or at least to paliate, they most blas<g ref="char:EOLhyphen"/>phemously pretend the bloud to be in the bread, which as being shed for us the cup onely doth signifie: This makes good the prophesie of Saint * <hi>Paul, That God should send them strong delusions to beleeve alye,</hi>
+               <note place="margin">2 <hi>Thes.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and lying wonders, which while they would defend one they must invent another, whereby the proverb is fitly applyed against them in this re<g ref="char:EOLhyphen"/>spect, <hi>Incidit in Syllam qui vult vitare Caribdim,</hi> and that we have good ground for it, this absurdity of the making Christ reall body, forceth them to confesse, and therefore they must content themselves to be<g ref="char:EOLhyphen"/>leeve that if a crumbe of consecrated hoast should fall, and a Mouse should eat it, that the Mouse should eat the body of Christ; which blasphemy to defend or thinke of is <hi>insanire cum ratione,</hi> to be mad a<g ref="char:EOLhyphen"/>gainst
+<pb n="6" facs="tcp:41772:5"/>reason, which I finde them very little more reconciled in the right understanding of the Sacrament of Baptisme in their addition of salt, spittle, signing with the signe of the Crosse, tolerating women to baptize, which are not permitted to speake in the Church, and the like absurdities, which makes the pure ordinance of Baptisme to be defiled, running through such uncleane puddle of Traditions and Su<g ref="char:EOLhyphen"/>pers<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itions.</p>
+            <p>
+               <note place="margin">Popish <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>actice.</note>THe third practice of Popery, is, <hi>To keep the consecrated H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ast upon the Altar, so as upon the apprchension of the extrincicall object, to fall downe and worship.</hi>
+            </p>
+            <p>That this is repugnant to the Articles of our faith, <hi>[He sitteth at the right hand of God, and shall comeagain to judge the quick and the dead]</hi> nothing can be more evident:<note place="margin">
+                  <hi>Acts</hi> 3.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.21.</note> or if the sacred Writ must (as I have underta<g ref="char:EOLhyphen"/>ken to prove) determine it, then reade what is written in the * <hi>Acts</hi> in these words, <hi>And he shall send Jesus Christ which before was preached unto you, whom the heavens must receive untill the times of restitution of all things, which God hath spoken by the mouth of all his Prophets since the world began.</hi>
+            </p>
+            <p>Like unto this blasphemy is their hereticall doctrine, that if there be a hundred or more consecrated wafers upon their Altars, there are so many severall bodies and soules, (according to the contents of the Chapter of <hi>Trent</hi>) contrary to the holy Scriptures, which say, <hi>This is my hody</hi> (not bodies) <hi>which is given for you.</hi>
+            </p>
+            <p>
+               <note place="margin">Popish <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ctice.</note>THe fouth practice of Popery, is, <hi>That besides Jesus Christ there are other Mediatours in Heaven, which intercede for them, and unto which they make prayers, or call upon.</hi>
+            </p>
+            <p>That this horrible Antichristian heresie is most false, the holy Scripture the truth it selfe doth declare, as we may read in the Epistle * to <hi>Timothy</hi> in these words;<note place="margin">Tim. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <hi>For there is one God and one Mediatour be<g ref="char:EOLhyphen"/>twixt God and men, the man Christ Jesus:</hi> what Scripture can be more satisfactory in this point? yet such is the nature of cavill, that if it can not find a hole, it wil make one, and therefore the enemies of the Gospel making use either of wresting the Scriptures, or of destinction, to joyne Saints in commission with Christ; they are content to take from Christ his incommunicable prerogative, and give to Saints more then their due, distinguishing betweene mediation of salvation which they attri<g ref="char:EOLhyphen"/>bute to Christ, and that of intercession which they attribute to the Saints, not to speak that this is only <hi>dist<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctio nominis, non rei,</hi> or rather a Tautologie: The lanterne to our feet and light unto our pathes will upon the first appearance dispell this mistie darknesse, for it is written <hi>Rom.</hi> 8.26. <hi>Likewise the Spirit also helpeth our infirmities, for we know not
+<pb n="7" facs="tcp:41772:5"/>what we should pray for at we ought, but the Spirit</hi> (not Saints) <hi>maketh interces<g ref="char:EOLhyphen"/>sion for us with groanings which cannot be uttered:</hi> and <hi>Verse</hi> 27. <hi>He <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat searcheth the heart, knoweth what is the minde of the Spirit, because he maketh intercession for, the Saints decording to the will of God:</hi> So that we finde that there is made in<g ref="char:EOLhyphen"/>tercession for the Saints, but not that the Saints doe, or can interced<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as I shall presently give a reason thereof. And that no Papists should be blin<g ref="char:EOLhyphen"/>ded to think it a light matter how they stand right in this Article of Faith concerning Christs onely mediation, let them but search the Scripture, and they shall finde that the off<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce of Christs Mediation hath respect to our sal<g ref="char:EOLhyphen"/>vation, as the Author to the <hi>Hebr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wes</hi> writeth in these words,<note n="*" place="margin">Heb</note>
+               <hi>Wherefore he is also able to save them to the uttermost that come unto God by him, seeing he e<g ref="char:EOLhyphen"/>ver liveth to make intercession for them:</hi> And therefore it is written,<note place="margin">
+                  <hi>Heb.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+               <hi>Heb.</hi> 9.15. <hi>And for this cause he is the Mediatour of the New Testament, that by meanes of death for the redemption of the transgressions, they that are under the first Testament must receive the promise of eternall inheritance:</hi> Therefore to admit of a multitude of Mediatours as the Papists do, is a flat refusall of the meanes of salvation, which none but Christ hath perfected for us; for none can be a Mediatour but he which hath shed his bloud, and is able to save, &amp; in one Hypostaticall union is both God and Man, whereby he is both capable to hear our prayers and mediate unto God the Father for us.<note place="margin">Sain not b<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> unto <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>led <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> And that the Saints are not to be prayed unto, or called upon, Christ commandeth to the contrary, <hi>Call upon me in the time of trouble. As for</hi> Abraham <hi>and the Saints, they are ignorant of us, Esay,</hi> 63.16. and therefore it is foolish to pray to Saints.</p>
+            <p>THe fifth Popish practice, is, <hi>Praying in an unknowne tongue,</hi>
+               <note place="margin">
+                  <hi>5.</hi> Pop<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> practi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note>
+               <hi>pattering over the</hi> Paternoster <hi>for the dead (as they usually tearm it) without Spirit or under<g ref="char:EOLhyphen"/>standing, and yet putting out the th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd part of the Lords Prayer, or Dox<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>logie.</hi>
+            </p>
+            <p>To breake the first <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>incke of these concatenated errors that the rest may fall to the ground, let us but take the sword of the Spirit, which is <hi>The word of God,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd, on may cut them all to pieces (Booke, Crosse and Deades) with one stroke that is given them, 1 <hi>Cor.</hi> 14. so that the Apostle saith <hi>verse</hi> 11. <hi>If I known<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ning of the voyce,</hi>
+               <note place="margin">1 <hi>Cor</hi> 15, 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+               <hi>I shall be unto him that speaketh a Bar<g ref="char:EOLhyphen"/>barian, and he that speaketh shall be a Barbarian unto me:</hi> In the 15. <hi>ver.</hi> he saith <hi>Therefore, what <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it thou, I will pray with the Spirit and pray with understanding also:</hi> which in case any should neglect (as the Romish or Popish Church doth wi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ully) to observ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in such a case, the Apostle makes this instance, <hi>If therefore the whole Chu<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> be came <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gether into s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> place, and all speake with tongues, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>here <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e unlear<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed or unbel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evers, will they not say, you are mad.</hi> The folly then of this unprofitable, unreasonable practice is fully in this place discovered, so that I would not have spoken of the pat<g ref="char:EOLhyphen"/>tering over of the Lords Prayer without spirit or understanding, but in re<g ref="char:EOLhyphen"/>gard in these late yeares the conclu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion or third part of the Lords Prayer
+<pb n="8" facs="tcp:41772:6"/>was with favour to the Romish Church Practice, left out in old Service-Bookes: and divers Ministers &amp;c. Who though they contend to say the Lords Prayer, without spirit and understanding, yet with the Papists they will not say the conclusion of the Lords Prayer, because the Service-Booke put it out, which <hi>Bellarmine</hi> the Jesuite endeavours to justifie, and therefore is very well confuted by old Orthodoxall Doctor <hi>Gouge,</hi> in his Exposition of the Lords Prayer; which (as the receiving of the Lords Supper) is much abused by the Ignorant and unfaithfull.</p>
+            <p>THe sixth Popish practice, is, <hi>In presuming to offer up Christ as a sacrifice to God the Father in the horrible blasphemous Masse.</hi>
+            </p>
+            <p>That they have no such commission granted them, Record doth plainly declare against this unparalleld, unheard of blasphemy, that the Creature should offer up the Creator: which would reduce Christ to a poore contem<g ref="char:EOLhyphen"/>ptable condition, for every Priest that sacrificeth (and none can be Priests but he that sacrificeth, which continued in the time of the Law) should bee better then the sacrifice; and so the Creator should be inferiour to the crea<g ref="char:EOLhyphen"/>ture: therefore the holy Record testifieth to the contrary, <hi>Heb.</hi> 9.26, 27, 28. saying,<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 7, 28</note> That Christ was once, and can no more be offered; which mon<g ref="char:EOLhyphen"/>strous opinion appeared so abominable to some exposed Jewes, that when they were told at their taking of Ship-board, that they might be entertai<g ref="char:EOLhyphen"/>ned in <hi>England</hi> if they would turne Christians, (Popery then prevailing) they replyed, That they would never be of that Religion, for if they turned Heathens, then they should beleeve that <hi>Jup<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter</hi> is in Heaven, and as they were Jewes, they beleeved God to c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eate man; but if they should turn Pa<g ref="char:EOLhyphen"/>pists, they must beleeve that the Priest could make his Creator, and to offer him up as a Sacrifice, which is against all reason, faith or example, ever since the world was created.</p>
+            <p>THe seventh Popish practice, is,<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>
+               <hi>In a religious manner to keep Saints Dayes or Holy-dayes, which the Pope sets downe in the Churches Register.</hi>
+            </p>
+            <p>That this Popish Decree is not warrantable, notwithstanding the faire pleasant pretences that are made to uphold it, search we the Canon of sa<g ref="char:EOLhyphen"/>cred Writt, and then his Canonized Saint dayes will have but a short time of continuance, which doth decree to the contrary? <hi>Six dayes shalt thou labour Remember to keep holy the Sabbath,</hi> not Saint dayes, though the man of sinne which exalts himselfe above all that is called God, decrees to the contrary.</p>
+            <p>THe eighth Popish practice, is,<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>sh <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>c.</note>
+               <hi>The prohibiting the use of marriage &amp; meats.</hi> That this is Gods prerogative only to determine, of whom it is said, <hi>The earth is the Lords, who hath created all for his glory,</hi> He hath ordained to the contrary,<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 4.1,</note> as it is written in the first Epistle * of <hi>Paul</hi> to <hi>Timothy, Now the spi<g ref="char:EOLhyphen"/>rit speaketh expresly, that in the latter dayes some men shall depart from the faith, giving heed to seducing Spirits, and Doctrine of Divells, teaching lies in Hypocrifie,
+<pb n="9" facs="tcp:41772:6"/>forbidding to marry: and commanding to abstaine from meat, which God hath crea<g ref="char:EOLhyphen"/>ted to be received with thanksgiving of them that beleeve and know the truth.</hi> Where is there then any Doctor, Father, Counsell, &amp;c. that when the Spirit spea<g ref="char:EOLhyphen"/>keth expresly, can understand these words in any other sence? And yet it is well knowne that Papists glory in the breach of this of Gods decree, in decreeing to the contrary, though in respect of Ministers Marriage, the Word of God is most evident, so that the eldest son of <hi>Zachary</hi> the Priest which was <hi>John</hi> the <hi>Baptist,</hi> was ordained by God to be Priest, and under the Gospell, 1 <hi>Tim.</hi> 3. it is said, <hi>That a Minister should be the busband of one wife:</hi> And <hi>that the Deacon should be the husband of one wife, Ver.</hi> 12. <hi>their wives appointed to be grave, Ver.</hi> 11. <hi>Peter</hi> married, <hi>Philip</hi> married and had foure daughters, which liberty <hi>Paul</hi> claimed to be due unto him,<note place="margin">1 C<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Phi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> 1 <hi>Cor.</hi> 9.5. <hi>Why may not I lead about a sister, a wife;</hi> not so as the Fathers understand by <hi>Phil.</hi> 4.3 yoake fellow: help <hi>these women which laboured with me in the Gospell:</hi> whereby the Father understood, that <hi>Paul</hi> was married, though not when he wrote the Epistle to the <hi>Corinthians:</hi> but this I will not contend for, for there is no such need, when the Word of God shines as cleare as the light. <hi>Heb.</hi> 13.4. <hi>Marriage</hi> (without exception) <hi>is honourable amongst all, but Whore<g ref="char:EOLhyphen"/>mongers and Adulterers God will judge;</hi> which his pretended Holinesse little re<g ref="char:EOLhyphen"/>gardeth, dispensing with, &amp; tollerating Stews in <hi>Rome</hi> for annuall pensions.</p>
+            <p>THe ninth Popish practice, is, <hi>Their pretending to Fast,</hi>
+               <note place="margin">
+                  <hi>9.</hi> P<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> prac<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </note>
+               <hi>when they eate a white meale, if they onely abstaine from flesh.</hi>
+            </p>
+            <p>That this observation of theirs is no fast but a meere abstinence, not to<g ref="char:EOLhyphen"/>tall, but onely in part, the practice of Gods people under the<note n="*" place="margin">Est<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Iona<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> Law, and Christ and his Apostles under the Gospell plainly declares to the contrary;<note place="margin">L<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </note> Therefore Saint <hi>Luke</hi> speaking of Christs fasting, saith, <hi>That in those dayes he did eat nothing.</hi> As the King of the <hi>Ninivites</hi> commanded man and beast to abstaine from all meat: and if onely forbearing of flesh be judged fasting, then have the Heathens in the Indies this thousand yeares and more fasted, who voluntarily have refused the eating of flesh, fearing the transin<g ref="char:EOLhyphen"/>gration of the soules of beasts, according to the Philosopher <hi>Pythagoras</hi> opi<g ref="char:EOLhyphen"/>nion, As Mr. <hi>Lord</hi> in his relation of their Religion reporteth.</p>
+            <p>THe tenth Popish practice, is, <hi>In praying for the releasing of soules out of Purgatory.</hi>
+               <note place="margin">10 <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> prac<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </note>
+            </p>
+            <p>That this Heathenish dotage though most covetous plot, to release souls out of Purgatory, is altogether foolish, Christs tells onely of Hell which is prepared for the Divell and his Angells, from whence there is no returne, untill Hell shall give up her dead, that both body and soule at Christs se<g ref="char:EOLhyphen"/>cond comming, might eternally suffer the Judgement of God; and that the soules of the righteous after death, are immediately received into Heaven; He declared that the faithfull Martyrs, glorious Saints, and spotlesse Virgins
+<pb n="10" facs="tcp:41772:7"/>doe behold and follow the Lambe Jesus wheresoever he goeth, the promise of our Saviour to the thiefe, <hi>This night thou shalt be with me in Paradise.</hi> And the prayer of Saint <hi>Stephen</hi> at the giving up of his ghost,<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 7.59.</note> * <hi>Lord Jesus receive my spirit,</hi> doth plainly declare without all contradiction, that as it is said in the Revelation <hi>Chap.</hi> 14. <hi>Blessed are the dead which dye in the Lord, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n so saith the spirit,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 13.</note>
+               <hi>for they rest from their labours and their works follow them;</hi> which they should not doe if they went into the pretended Popish Purgatory, which none of Christs Apostles, but the Poet <hi>Virgil</hi> teacheth them.</p>
+            <p>THe eleventh Popish practice, is, <hi>In prohibiting Lay-men to reade the Scriptures.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pish <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note>
+            </p>
+            <p>Of all that Papists pretend, there is the least to be said for this politicke Practice, like unto which is, that Ignorance is the mother of Devotion; yet neverthelesse they most carefully keepe the people from reading the Scriptures, because the word is the light that discovers their hidden dark<g ref="char:EOLhyphen"/>nesse, and such an enemy unto them, that they would not have their poor deluded souls to be so reconciled to the word of God, as to lay down their conscience, will and affection to be ruled by God in his word, they know<g ref="char:EOLhyphen"/>ing the decree of God, contradicts the Popish Decretals. To relate what may be here spoken, were to write a large Tractate, therefore I indeavou<g ref="char:EOLhyphen"/>ring to be short in this particular, I doe declare that God commanded all Parents to teach their children,<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 6.6. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 17.19. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 39. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 3.16.</note>
+               <hi>Deut.</hi> 6.6. <hi>Deut.</hi> 17.19. Christ commandeth <hi>to search the Scriptures, John</hi> 5.39. <hi>Timothy knew the Scriptures of a childe, which are able to make men wise unto salvation,</hi> 2 <hi>Tim.</hi> 3.16. In a word, I am able to prove that in all ages the Fathers and Holy Men approved of the reading of the holy Scriptures; and therefore the great Counsell dee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ced (which I wish were now renewed,) that every Family should have a Bible; in which, if the Papists would be studious, and thus farre submit to God, as to beleeve and obey nothing but what they finde out of his Word, then would they (even as many as are ordained to salvation) as the sheepe of Christ, heare his voyce and come out of Babylon.</p>
+            <p>THe twelfth Popish practice, is, <hi>Their enjoyning and observation of Tra<g ref="char:EOLhyphen"/>ditions.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pish <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e.</note>
+            </p>
+            <p>Which Traditions are so unwarrantable superstitions, or foolish, that to name them is enough to confute them, or if to adde all their absurdities were required, it would require more pains then I have time to recount them. As best knowne therefore for a taste of the Popish dainties, or set open the rich Cabinet of their admired Church treasure or ornaments; or in plaine truth to let their pack of trumpery be open: Not to speak of the multitude of Eopperies which they use in the Masse, for to relate them would be ve<g ref="char:EOLhyphen"/>ry tedious, I will onely present to their view these ensuing Traditions, Ceremonies or superstitious Practices, as namely, use of Beads, Pictures, I<g ref="char:EOLhyphen"/>mages,
+<pb n="11" facs="tcp:41772:7"/>
+               <hi>Agnus Dei,</hi> Reliques of Saints, Crosses, Ring in Marriage, Altars, Letanies, Hoods, Priest-stoole, Surplisses, Rood-staffe, Holy-water, Crisme, Consecrations, sticking up of Rountree on Saint <hi>Ellens</hi> Eve, Pi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gri<g ref="char:EOLhyphen"/>mages, Praying for the Dead, Shrievings, Signing of themselves, bowing before Altars, putting out of the Cup in the Sacrament, putting out the se<g ref="char:EOLhyphen"/>cond Commandement, third part of the Lords Prayer, observing Saints dayes, calling upon Saints, as Mediatours, sac<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>cing of Christ in their Masse, prohibiting Marriages and Meats, which is the<note n="*" place="margin">1 <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1, 2, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 5, 6.</note> Doctrine of Divells, and prohibiting the people to read the holy Scripture; all which they most carefully observe, like as the Pharisees observed their Traditions, wherefore the words of Christ fully condemnes them, which he<note n="*" place="margin">M<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 9.</note> speaketh <hi>Mat.</hi> 15.9. <hi>In vaine do ye worship me, teaching for doctrines the Commandements of man,</hi> which who so doth, the Lord will proceed against them as he speaketh by the Pro<g ref="char:EOLhyphen"/>phet<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 13.</note>
+               <hi>Esay, For whatsoever is not of faith</hi> (as these Traditions are) <hi>is sinne;</hi>
+               <note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 23.</note>
+               <hi>if the light that is in them,</hi> Imeane (their Religion and holinesse as they conceit themselves) <hi>he darknesse, Oh how great</hi> (saith Christ) <hi>is that darknesse.</hi> To conclude therefore seeing the Scriptures saith, some men<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> professe they know, and in workes deny him, being disobedient, and to every good work reprobate; and that it is the character of every Christian, My sheep heare my voyce, and that God hath said <hi>Heb.</hi> 8. <hi>This is the new Covenant, I will write my words in their heart by my spirit, I will be unto them a God and they shall be unto me a people.</hi> That therefore all Papists would faithfully examine themselves, what hopes they have for to bee saved; if all these practices which they call their good workes be most blasphemous and wicked, as hath been unquestionably proved by the word of God, I shall therefore heartily pray to God that upon the examination of this truth, that as ma<g ref="char:EOLhyphen"/>ny Papists as are Gods people through election, may be made his people by effectuall call; that they may heare Christs voyce, <hi>Come out of Babylon my people least you he partakers of her sinnes, least you be partakers of her plagues.</hi> For it is written, 2 <hi>Thes.</hi> 2.12. <hi>All shall be damned that beleeve not the truth;</hi> which God open their eyes to behold.</p>
+         </div>
+         <div type="answer">
+            <pb n="12" facs="tcp:41772:8"/>
+            <head>An Answer to <hi>Mr. Oddy's</hi> Scruples (which he alledgeth against the Covenant) by Mr. <hi>Will. Kaye.</hi>
+            </head>
+            <p>
+               <note place="margin">Oddy.</note> O <hi>Holy spirit of God direct me.</hi>
+            </p>
+            <p>
+               <note place="margin">Kaye.</note> O Father of wisdome and God of all truth, who didst command thy people under the Law when any controversie arose, to have recourse unto thy Priests, to whom thou gavest the <hi>Ʋrim</hi> and <hi>Thumm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m;</hi> and now under the Gospell of thy Son Jesus Christ, the Head and Husband of thy Church, hast ordained Ministers to bee stewards of the Mysteries of the Gos<g ref="char:EOLhyphen"/>pell; not onely to preach but to confute the gain-sayers of the truth; and commandest all to give an answer to them that aske them concerning their saith: Be therefore graciously pleased, O Father of light, so to remove the vaile from my eyes, which thou hast put away in Christ, let the day-starre so arise in my heart, that in regard my fellow-labourer in the Gos<g ref="char:EOLhyphen"/>pell requires satisfaction of me for answering his Scruples concerning the taking of the Covenant (cheerfully received by many of thy people whom thou requirest to live unspotted in the world, to walke warily towards those that are without, and to shine like glorious lampes in his Church;) I may therefore either be convinced by my Brothers Reasons of what I have done, or that thou wouldest be pleased so graciously to communi<g ref="char:EOLhyphen"/>cate thy selfe unto me, though least of ten thousands, that I may not onely be confirmed to continue in my resolution, but may be also so inabled by the spirit of wisdome to discover the causelesse or sandy foundations upon which his conscience is grounded; that as we both appeale to the throne of grace, Thou mayest heare our prayers, to <hi>Grant us thy holy Spirit to direct us;</hi> that thou that hast said, <hi>Nothing is hid which shall not be discovered,</hi> may let the truth appeare, for the desciding of the Controversie, for the satisfa<g ref="char:EOLhyphen"/>ction of those that stop their cares when thou callest them, <hi>Come out of Ba<g ref="char:EOLhyphen"/>bylon my people,</hi> whereby the Kingdome of Antichrist may be pulled down, the Kingdom of Jesus Christ set up amongst us, for the advancement of thy glory, comfort and union of thy people, and Reformation of Church and State, to turne these present Judgements into Mercy, and establish thy peo<g ref="char:EOLhyphen"/>ple in holy security, truth and peace, to live to thy glory, <hi>Amen.</hi>
+            </p>
+            <p>Thus in first invocating of God, we both agree, and that God may bee seen in discovering the truth, I shall (by Gods assistance) without feare, af<g ref="char:EOLhyphen"/>fection,
+<pb n="13" facs="tcp:41772:8"/>or prejudicate opinion, answer you as the Lord is pleased to assist me, writing first your words.</p>
+            <p>
+               <hi>First, I appeale to the Almighty God,</hi>
+               <note place="margin">M. O<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </note>
+               <hi>to whom the secrets of all hearts are disclo<g ref="char:EOLhyphen"/>sed, that I doe not write or alledge any thing here, out of faction or affection, but meerely to discharge my selfe to God and a good conscience, according as my judge<g ref="char:EOLhyphen"/>ment is consonant with my heart and the best of my understanding in all integrity. In testimony whereof, I thus proceed in the name and feare of God.</hi>
+            </p>
+            <p>Though in this your <hi>Appeale,</hi> you declaring onely to discharge your (as it is also my speciall) duty to God and a good conscience,<note place="margin">M. K<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> &amp;c. might seeme hereby to gaine a suddaine approbation, yet neverthelesse, no verball profession, to cry <hi>Templum Domini,</hi> or to say, Lord, Lord, or to professe we know God, if in works, we deny him, procures the least approbation from the searcher of the secrets of our hearts. Therefore though in your appeale you professe onely to discharge your selfe to God and a good conscience, which you have mentioned some twenty times in lesse then halfe a sheete of paper, yet in regard that both yours and my conscience by nature (as the rest of our faculties and affections) are so depraved, that conscience is sca<g ref="char:EOLhyphen"/>red and polluted. And lastly, in regard we are required to try the spirits, by the touchstone of Gods word and solid reason, I hope you will pardon me, notwithstanding your professions to doe all in <hi>Good Conscience,</hi> to examine whether your conscience be good or no, or that you have written all in the feare of God, and in all integrity; If it be so, that you made such consci<g ref="char:EOLhyphen"/>ence in all that you have written, then tell me with what good conscience you could in the second Article speake first of the Assembly of Divines, <hi>[with Reverence to that Holy Assembly,]</hi> and then presently apply <hi>Davus</hi> the fooles words in the Commedy against them, <hi>Bona verba,</hi> which even school<g ref="char:EOLhyphen"/>boyes expound, good Gouse bite me not: if your conscience told you they were a Reverend Holy Assembly, other words would more fittingly have expressed your meaning: But this is nothing in comparison what you have spoken also against the Assembly, the Scots, and interpreting the minde of the King, which in their proper place I shall shew, onely in this place I de<g ref="char:EOLhyphen"/>sire to let you see, that all that you have written, hath not (as you pretended in your Appeale,) <hi>proceeded from a good conscience and in the feare of God.</hi>
+            </p>
+            <p>
+               <hi>That imparative counsell of the Apostle is worth hearkening to,</hi> Rom. 14.5. Let every man be fully perswaded in his owne minde, <hi>That is,</hi>
+               <note place="margin">M. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+               <hi>as the Apostle seemes to expound himselfe, Let no man doe any thing contrary to his conscience, for whatsoever is done against conscience, (for so I take the words in that place) is sinne, &amp;c.</hi>
+            </p>
+            <p>As the elect must heare that <hi>imparative counsell</hi> of the Apostle, <hi>Let every man be perswaded in his owne minde,</hi> yet Christ telleth us,<note place="margin">M. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note>
+               <hi>John</hi> 10. <hi>The voyce of a stranger will they not heare,</hi> which I conceive to be meant of strange Doctrine,
+<pb n="14" facs="tcp:41772:9"/>or interpretation out of the word of God, as this your interpretation, whereby you understand, <hi>Faith and Minde for Conscience,</hi> may be adjudged strange; for though there may be no good conscience without faith, yet conscience is not faith, nor faith properly is not conscience, or the minde; neither doth <hi>Calvin</hi> or <hi>Musculus</hi> from <hi>Rom.</hi> 14. further then raise exhor<g ref="char:EOLhyphen"/>tations to be conscientious of those things which by faith we be perswaded of, this by the way, to proceed, you further write in these words,</p>
+            <p>
+               <hi>Conscience</hi> mille testes, <hi>Its</hi> ante precatum fraenum, post peceatum flagrum, <hi>Conscience is a thousand witnesses,</hi>
+               <note place="margin">Oddy.</note>
+               <hi>before sinne committed it is a bridle, when it is committed a most sharp scourge and whip, and if our conscience condemne us, God is greater then our conscience; upon which premises, I draw this Indifference; That for me to enter into or take this Covenant contrary to my conscience, or my conscience scrupling, or not fully informed of the lawfulnesse of it, to me its sinne, and so it fol<g ref="char:EOLhyphen"/>lowes by consequence, that I cannot without sin take this Covenant till my conscience be satisfied of these ensuing Scruples.</hi>
+            </p>
+            <p>In this your discourse there are two things to be considered.<note place="margin">Kaye.</note>
+            </p>
+            <p>First, the description of Conscience. Secondly, the conclusion you make from that discription.</p>
+            <p>First the discription of Conscience is not sufficient, for there are two se<g ref="char:EOLhyphen"/>verall acts of Conscience, 1. <hi>Accuse.</hi> 2. <hi>Excuse.</hi>
+            </p>
+            <p>All that you speake, is of the accusing part of Conscience, of which it may be said that it is such a whip and scourge, that <hi>a wounded con<g ref="char:EOLhyphen"/>science who can beare,</hi> of this you onely speake. But secondly, Conscience hath an Excusing part, or faculty called, The reflex of conscience, whereby it doth excuse, cheere, and comfort a man in doing what is justly required; hence a good conscience is said to be a continuall feast.</p>
+            <p>Secondly, the conclusion you make from the description of Conscience, is (as you say) <hi>That upon these premises you draw this conclusion, that you cannot take the Covenant without sinne.</hi> The School-men say that Conscience is compared to a Syllogisme, the major is called <hi>Synderesis,</hi> the minor, <hi>Ratio superior,</hi> the conclusion, <hi>consideratio conscientiae;</hi> now Sir if your conscience you speake of consisted of these premises, and had the second part of Con<g ref="char:EOLhyphen"/>science which you speake not of, that is the excusing part of Conscience, if from the first act of conscience you dare not take the Covenant; <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om the second act you may be incouraged to enter into the Covenant, which that you may, I present unto you these premises to satisfie your conscience to take the Covenant.<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>mises <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>round <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>nce to <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>enant</note>
+            </p>
+            <div type="arguments">
+               <head>The Premises or Arguments are these.</head>
+               <p>
+                  <hi>The supreme Judicatory of the Kingdome undissolved, containing in it Regall and Majest<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>riall Power, is to be obeyed.</hi> But the Parliament is the supreme ju<g ref="char:EOLhyphen"/>dicatory of the Kingdome undisolved, <hi>ergo,</hi> the Parliament being the su<g ref="char:EOLhyphen"/>preme Judicatory of the Kingdome, is to be obeyed.</p>
+               <pb n="15" facs="tcp:41772:9"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argument </seg>2</label>
+                  <hi>Whatsoever Subject taketh up Armes against the supreme Judicatory, resisteth the Higher powers, and sins against conscience.</hi>
+               </p>
+               <p>But every Subject that is in Armes against the Parliament, taketh up Armes against the supreme Judicatory. <hi>Ergo,</hi> Every one that taketh up Armes against the Parliament, resisteth the higher Powers, and sins against conscience.</p>
+               <p>The reason and ground of this Argument, is, because it being proved. That a Parliament not Legally dissolved, having in it Regall power, there can none resist the Parliament, but resist the King; neither can the Kings power be taken away, till the Parliament be dissolved: and then the Kings power is to defend the Judgements of Inferiour Courts. So that with Courts of Judicatory, my conscience telleth me, the Kings Regall power alwayes attendeth. And I cannot oppose the Judge upon the Bench, nor the Jury, but oppose the King, because they are set to see the execution of the Law, which the King sweareth to defend. Therefore from the Premis<g ref="char:EOLhyphen"/>ses, how can you with a good conscience, oppose, or not be subject to the Parliament, being the supreme Judicatory: The Kings Regall power be<g ref="char:EOLhyphen"/>ing contained in it, till it be dissolved, and then attend other Courts.</p>
+               <p>For further satisfaction, consider the Premisses which will more neerly concerne you.</p>
+               <p>
+                  <hi>He that hath sworne to maintaine the Priviledges of Parliament, and now refu<g ref="char:EOLhyphen"/>seth to Covenant to assist them, hath not performed, or broken his oath.</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argument </seg>3</label>
+               </p>
+               <p>But Mr. <hi>Oddy</hi> hath sworne to maintaine the Priviledges of Parliament, <hi>Ergo,</hi> Mr. <hi>Oddy</hi> refucing to take the Covenant to assist the Parliament, doth not performe, or hath broken his former oath.</p>
+               <p>Now if conscience (as you say) is a whipp, and a thousand witnesses, consider whether the premisses may not invite you to take the Covenant; and if not, hearken unto this last Argument.</p>
+               <p>
+                  <hi>In time of Judgement, and when the enemies of God are in open Warre against Gods people: a Covenant for Reformation of Church and State,</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argument </seg>4</label>
+                  <hi>and to unite and strengthen Gods people, ought to be taken.</hi>
+               </p>
+               <p>But at this time of Judgement, a whole Nation of Papists are in War, and are confederate against Gods people, <hi>Ergo,</hi> Gods people ought at this time to enter into a Covenant for Reformation of Church and State, and for uniting of themselves against their enemies.</p>
+               <p>In briefe therefore, seeing it hath beene proved that the Parliament un<g ref="char:EOLhyphen"/>dissolved, is the supreme Judicatory of the Kingdome, and therefore hath in it Regall and Majesteriall power. Secondly, That therefore the Parlia<g ref="char:EOLhyphen"/>ment is not to be raised by Armes. Thirdly, Because also we are sworne to obey it, and maintaine the Priviledges of it. And fourthly, and lastly, That it hath Authority, and as necessity requires, at this time of
+<pb n="16" facs="tcp:41772:10"/>Judgement to administer a Covenant, How can you now (being by these premisses informed) refuse to joyne in Covenant with the Parliament? And then consider whether passion or prejudicate opinion, hath not suggested false premisses to cause your conscience to be erroneous. But seeing you pretend (though I have yet found no ground for it, except policy) to have satisfaction, therefore according to my ability, I am willing to enter with you into the consideration of your five Scruples.</p>
+            </div>
+            <div n="1" type="scruple">
+               <head>The first Scruple.</head>
+               <p>
+                  <hi>First my conscience would be informed touching the Discipline and Government of</hi> Scotland,<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. Oddy.</note>
+                  <hi>both what it is, and the lawfulnesse of it, before it will permit us to sweare the preservation of it, least I be found guilty of the breach of that necessary condition required by God himselfe in an Oath,</hi> Jer. 4.2. <hi>Thou shalt sweare in judgement, that is, out of certaine knowledge of the thing that we sweare, &amp;c.</hi>
+               </p>
+               <p>In this first Scruple,<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. Kaye.</note> two things. First, Scruple it selfe. Secondly, Rea<g ref="char:EOLhyphen"/>son why you so Scruple.</p>
+               <p>First, For the Scruple it selfe, you say you know not the Discipline of the Church of <hi>Scotland,</hi> and therefore cannot sweare to preserve it. If you have <hi>judicum charitatis,</hi> either of the <hi>Scots,</hi> or of the Composers of the Co<g ref="char:EOLhyphen"/>venant, you may perceive it is not an absolute particular knowledge of their Discipline, but a generall knowledge that is desired: and so in a ge<g ref="char:EOLhyphen"/>nerall way to sweare to preserve the Discipline of the Church of <hi>Scotland</hi> against the common enemies, which when they discover themselves to in<g ref="char:EOLhyphen"/>vade their Kingdome, and take away their Religion, then you will have the best particular knowledge of the duty to preserve their Religion. If you will not scruple to maintaine the Lawes of the Land, then you cannot scruple to maintaine the Religion of <hi>Scotland,</hi> which if we had sworn to pre<g ref="char:EOLhyphen"/>serve five yeares last past, we had not seene the Northerne expedition.</p>
+               <p>The reason of your scruple is,<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</note> that we ought to sweare in judgement, which is as you expound it <hi>[out of certaine knowledge.]</hi> if you take certaine knowledge for every particular circumstance, and that your conscience did never (or you ought not) swear to nothing, but what you thus understand, then tell me I pray you? what is the certaine knowledge of the Lawes of the Land? What is the certaine knowledge of the Kings Prerogative? What is the certaine knowledge of the Priviledges of Parliament? The faith of the Gospell and of God himselfe, whom you know is mentioned in that place of <hi>Jer.</hi> 4.2. which you take no notice of, writing the words thus, <hi>Thou shalt sweare in Judgement,</hi> whereas the words are thus written, <hi>Thou shalt sweare the Lord liveth, in truth, in Judgement, &amp;c.</hi> There you leave both God and his truth out, upon lesse grounds then this you have raised Scruples. To conclude, if by Judgement you meane certaine knowledge, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I am certaine this was never your practice thus to sweare, when you
+<pb n="17" facs="tcp:41772:10"/>were <hi>Rurall Deane,</hi> and then administred oathes unto the people, to give a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Inventory of their goods, which neither you that gave the Oath could precisely know, nor these that tooke the oath, which should be taken in <hi>sensu dantis,</hi> according to his meaning that gives it. Now that you are not so strictly sworne to the Religion of <hi>Scotland,</hi> as you swore others to give an Inventory of their goods, you are not sworne to preserve the Doctrine or Government or the Church of <hi>Scotland,</hi> then as it is agreeable to the Word of God, which is as certaine knowledge as you can desire; and there<g ref="char:EOLhyphen"/>fore you need not seare the Trespasse offering, if you trespasse not by refu<g ref="char:EOLhyphen"/>sall.</p>
+            </div>
+            <div n="2" type="scruple">
+               <head>Second Scruple.</head>
+               <p>
+                  <hi>We are to sweare the preservation of the Reformed Religion of the Church of</hi> Scotland, <hi>in Worship, Discipline, and Government.<note place="margin">M. O<gap reason="illegible" resp="#keyers" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </note> Here is a Scruple to be resol<g ref="char:EOLhyphen"/>ved, How can I lawfully sweare this unlesse their Discipline were unchangeable, like the Lawes of the</hi> Meedes <hi>and</hi> Persians, <hi>which would imply an absolute perfe<g ref="char:EOLhyphen"/>ction of that Church more then ever the Pharisees abrogated unto themselves, or the</hi> Katharoi <hi>after them, or the Popes of late, ever since they stablished their owne infal<g ref="char:EOLhyphen"/>libility.</hi>
+               </p>
+               <p>To resolve this Scruple, Mr. <hi>Oddy,</hi> which is,<note place="margin">M. K<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </note> that you cannot sweare to the Discipline of the <hi>Scots,</hi> unlesse it were unchangeable. To this I answer,
+<list>
+                     <item>First, if you sweare to nothing but what is unchangeable, or that you would make it unchangeable for swearing, then could you not sweare to the Lawes of the Land, for they are changeable, nor to the Government of the Church (as far as ordained by man) for it is changeable: nor must you sweare to Ceremonies, because it is the Doctrine of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that they are changeable: know therefore that so farre you sweare to the Government of the Church or State, untill it be altered by the Church and State, and no longer doe you sweare to preserve Discipline, or the Lawes of the Land; because, otherwise you would sweare against the priviledges of Parliament, which is, to alter Government and Lawes, as farre as they are of mans invention, therefore, you may sweare to a thing which is changeable, thou you must not change it till the Lawes declare against it.</item>
+                     <item>Secondly, but you make some instances why you would not sweare to performe the Discipline of <hi>Scotland,</hi> because you say, <hi>It would imply an ab<g ref="char:EOLhyphen"/>solute perfect<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>on of that Church, more then ever the Pharisees</hi> Katharoi, <hi>or Popes of late, ever arrogated unto themselves.</hi> To which I answer, Where was your con<g ref="char:EOLhyphen"/>science Mr. <hi>Oddy,</hi> when the Bishops Oath with <hi>&amp;c.</hi> was imposed, that it was silent then to speake against unchangeable Government, which Oath some sware unto. That the Pharisees, <hi>Haebreorum Pontifici,</hi> as <hi>Peter Mar<g ref="char:EOLhyphen"/>tyr</hi> calls them, did exceedingly arrogate unto themselves by their <hi>Corba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> (like our late Innovatours and Projectours of Church and State) the
+<pb n="18" facs="tcp:41772:11"/>course of the Law is very apparent, but why should you (Mr. <hi>Oddy</hi>) if you have spoken nothing but out of conscience, and in the feare of God, and in all integrity, uncharitably scandalize the Scottish Government which you hardly professe to know, and yet seeme to justifie the Pharisees <hi>Katharoi,</hi> or <hi>Popes,</hi> which are condemned for Hypocrites and Antichrist. Was there ever greater pride then in the Man of Sin which exalts himselfe above all that is called God, or is worshipped, who (as he most falsly pretends) sits in <hi>Peter</hi> chaire, and hold, his Foot out to be kissed? And yet you know that the Presbyters are content to deny all worldly pompe, seeking no other Ca<g ref="char:EOLhyphen"/>thedrall in the Church, then to set up Christ the King and Head thereof, that by Doctrine and Discipline, he may convert and rule hie people. Well Mr, <hi>Oddy,</hi> if Pharisees and Popes be by you more to be justified then Pres<g ref="char:EOLhyphen"/>byters your brethren, I feare you have erred through passion and not con<g ref="char:EOLhyphen"/>science of changeable Discipline, but I will not so think of your Scruples.</item>
+                  </list>
+               </p>
+               <p>
+                  <hi>Besides this would confound matter of Doctrine and matter of Discipline,</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Oddy.</note>
+                  <hi>con<g ref="char:EOLhyphen"/>trary to that infalliblerule of Tertullian,</hi> Regula sidei immobilis.</p>
+               <p>If these words be well weighed for all the matter you so much speake of,<note place="margin">Kaye.</note> they will be found lighter then you conceive it may b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, except you thinke it a great matter first to invent a Scruple, or causelesse ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ping cavill, and supposing to make it good, as a foundation stone, to indeavour to build a Trophey of praise upon that sandy and rotten foundation, which your <hi>Bestdes</hi> would imply, which you speake of concerning confounding matter of Faith, and matter of Order, is onely gathered from the third Scruple, which Scruple I have plainly removed and considered; so that this your Objection arising from your former Scruple, hath nothing in it but a meer demonstration of some of your Sophistrie: For to answer you further, there is no confusion as you pretend in giving matter of faith, and matter of Discipline, &amp;c. under one head or part of the Covenant, therein to swear equally to performe, (which is the thing you scruple) which makes no more c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nfusion, then if a man should sweare to preserve body and soule, in one subject: Man, though the body be alterable as Government is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n part as far as is invented by man, and the soule permanent or unalterable, as Doctrine and Matter of faith, therefore we sweare according to the na<g ref="char:EOLhyphen"/>ture of body and soule, to preserve them both without, as you pretend a<g ref="char:EOLhyphen"/>ny confusion, and so we sweare to preserve Discipline, according to the nature of Discipline, and Doctrine, and matter of faith, according to their nature and permanency of their being. And that this cavill may perish, having not a being in reason; In an Oath you know there is two things, Contestation and Deprecation, and both which may be in one part of the Oath, as in the Protestation in one part or branch of it, we sweare to King, Priviledges of Parliament, Protestant Religion, opposing Popery, and these
+<pb facs="tcp:41772:11"/>that oppose us; and yet there is no confusion, as you pretend, in swearing to matter of faith and matter of Discipline, since in preserving of both ac<g ref="char:EOLhyphen"/>cording to their nature or condition, or rejecting any thing, there is no confusion but what you have made, and now like <hi>Babel</hi> is cast downe; Though the infallible Rule of <hi>Tertullian</hi> which you have twice mentioned, is hereby neither made crooked nor broken, though in that Application or Use that you make of it; you seeme to put it into troubled water of your owne commotion, whereby a straight Rule (as I acknowledged <hi>Tertullians</hi> to be) may seeme crooked: I should not thus farre have troubled my selfe with such a meere Sophisme, but that I sinde you make this Chimera a foundation to build your next Scruple upon, which is,</p>
+            </div>
+            <div n="3" type="scruple">
+               <head>Third Scruple.</head>
+               <p>
+                  <hi>We are by this Covenant to sweare to inde to u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Reformation of Religion in</hi> England <hi>and</hi> Ireland, <hi>hereby Doctrine,</hi>
+                  <note place="margin">M. <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </note>
+                  <hi>we must needs understand</hi> dognata fidei <hi>to distinguish<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>it from Worship, Discipline, and Government: now my conscience as<g ref="char:EOLhyphen"/>keth me, how I can indeavour the Reformation of that which is unchangeable ac<g ref="char:EOLhyphen"/>cording to the former Rule,</hi> Regula fidei, &amp;c.</p>
+               <p>In regard this Scruple hath his dependance on that which goeth before,<note place="margin">M. <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </note> as your owne words testifie, [<hi>according to the sormer Rule,</hi> Regula fidei,] thrice now repeated by you, by which straight Rule, seeing you so often write away, and lead your sel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> into a Lab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ynth, I might justly refuse to roule the samestone over a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ine with you; but to answer some expectation, first, I will let you see your errour, and secondly answer your Question, which your conscience pretends to make. First, concerning your errour you here runne into, it is his, that you say, <hi>Dogmata fidei,</hi> are to be <hi>distinguished from Worship, &amp;c.</hi> I must be plaine with you, it is a grosse errour, to hold, That Worship must be distinguished from <hi>Dogmata fidei,</hi> for Worship is in the chiefe number of <hi>Dogmata fidei,</hi> and though Discipline and Government are not to be received but in part, as <hi>Dogmata fidei,</hi> I meane so farre as ordai<g ref="char:EOLhyphen"/>ned by God, yet they may in the same part of the Covenant be sworn too to be preserved with <hi>Dogmata fidei,</hi> according to their condition in part permanent, and in part as having addition of man, alterable. Second<g ref="char:EOLhyphen"/>ly to answer your Question your conscience makes, to sweare to Reforme that which is unchangeable; I answer, there is no intention to change Ar<g ref="char:EOLhyphen"/>ticles of Faith, further then onely to make them more cleare and perspicu<g ref="char:EOLhyphen"/>ous from such phrases and obscurities whereby Arminians, &amp;c. tooke ad<g ref="char:EOLhyphen"/>vantage, and this is all the Reformation that is intended, which is] not to be scrupled at.</p>
+            </div>
+            <div n="4" type="scruple">
+               <head>Fourth Scruple.</head>
+               <p>
+                  <hi>A fourth Scruple ariseth hence,<note place="margin">
+                        <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </note> That the Doctrine of the Church of</hi> England <hi>and</hi> Scotland <hi>differ not, (for as farre as I conceive they differ nor) then my conscience
+<pb n="20" facs="tcp:41772:12"/>asketh me how this Oath can be preserved, seeing in one branch we sweare Preserva<g ref="char:EOLhyphen"/>tion, and in another branch the Reformation of the same Doctrine.</hi>
+               </p>
+            </div>
+            <div n="5" type="scruple">
+               <head>Fifth Scruple.</head>
+               <p>
+                  <hi>In the Protestation of the</hi> 5. <hi>of</hi> May, <hi>we sweare to defend the true Reformed Pro<g ref="char:EOLhyphen"/>testant Religion,</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>dy,</note>
+                  <hi>according to the Doctrine of the Church of</hi> England, <hi>but in this we swe are the Reformation of that Doctrine, which we swore before to defend; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y con<g ref="char:EOLhyphen"/>science asketh me how I can take this Oath, and not be guilty of the breach of one.</hi>
+               </p>
+               <p>In regard the fourth Scruple ariseth from the third,<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>aye.</note> and the third from the second, whereby your fourth is fully answered; therefore to this fifth Scruple I returue you this answer. Though you still harpupon the same string which makes more noise then need be, for to make your num<g ref="char:EOLhyphen"/>ber the greater; yet Sir you see, that this Scruple is the same in substance with the fourth, for it is grounded upon the misapprehension of the inten<g ref="char:EOLhyphen"/>ded Reformation of the Doctrine, which in what sence it ought to be done, I have already shewed you. To returne you therefore the same answer, I say, there is no contradiction (as you suppose) neither express nor implicite, nor doth the Parliament which made both the Protestation and the Cove<g ref="char:EOLhyphen"/>nant, intend any difference, to defend the Doctrine, and to Reforme, as you pretend,<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of</note> having a great regard to keep most solemne the Protestation of the 5. of <hi>May,</hi> 1641. of which the Exhortation for the Covenant thus wri<g ref="char:EOLhyphen"/>teth. <q>For what is there in the Covenant, which was for substance either expressed, or manifestly included in that solemne Protestation of <hi>May</hi> 5. 1641. wherein the whole Kingdome stands ingaged untill this day; the sinfull neglect whereof opens one floud-gate the more, to let in all these calamities against the kingdome, and cast upon it a necessity of renew<g ref="char:EOLhyphen"/>ing the Covenant, and of entring into this.</q> You may see therefore, that except you would first prove, that Reformation is a Deformation: second<g ref="char:EOLhyphen"/>ly, except the Parliament in their Protestation which they made the 5. of <hi>May,</hi> did make that Oath with intention to sweare against themselves, and their owne Priviledges; and to sweare against the twentieth Artic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of the Doctrine of the Church. And lastly, except you would have the Parlia<g ref="char:EOLhyphen"/>ment to sweare to betray their trust, all which to thinke is most abomina<g ref="char:EOLhyphen"/>ble; then you must of necessity grant, that we with them must needs endea<g ref="char:EOLhyphen"/>vour to sweare to Resorme the Doctrine of our Church in some Articles; that thereby, by Reforning, we must defend the Doctrine of the Church: for I say to sweare to reforme and to preserve (as you pretend) is no con<g ref="char:EOLhyphen"/>tradiction.<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ma<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </note> For Reformation hath the same use that the golden Snuffers had, which were not to put out, but to make the light shine more cleare; or like a prop to set against the house least it should fall; or to gather out the stones out of the vineyard, or to give physicke to the sicke, or to shew the way to a Traveller in a great mist: To sweare therefore to make the
+<pb n="21" facs="tcp:41772:12"/>light burne more cleare, and to sweare to snuffe the candle, to sweare to keep up the house, and to sweare to set a prop under it, to sweare to pre<g ref="char:EOLhyphen"/>serve the vineyard and to set a hedge about it, and gather out the stones; to sweare to preserve a mans life, and to sweare to give him physicke: or last<g ref="char:EOLhyphen"/>ly, to sweare to direct one a right in the night, and to swear to permit him a Lanterne and a candle, doth not contradict an Oath, but fulfill it; for all these actions, though severally distinct, have one and the same end: and therefore to sweare to preserve the Doctrine and to reforme it, when the enemies of the Gospell deforme it, admits no contradiction. I am glad if you remember the Protestation of the 5. of <hi>May,</hi> which seeing you tooke it, you cannot, except you will be perfidious, refuse to take the Co<g ref="char:EOLhyphen"/>venant, which the exhortion tells you, is to renew the Protestation. In the Protestation you sweare to preserve the Doctrine of the Church, the Lawes of the Land, the Priviledges of Parliament, &amp;c. If you sweare to preserve the Doctrine, then you must preserve the twentieth Article of the Doctrine, by vertue of which, the Assembly hath power to determine mat<g ref="char:EOLhyphen"/>ters of Faith, then they may Reforme the Old Doctrine, to make it plaine or perspicuous. Againe by that Oath you must give leave to the Parlia<g ref="char:EOLhyphen"/>ment to alter the Lawes, because you sweare to their Priviledge, so then your Protestation the 5. of <hi>May,</hi> bindes you not absolutely to admit of no Reformation of Articles, or abolishing of Lawes; for then you should sweare against the Priviledges of Parliament, and the Priviledges of the Assembly, and sweare against the twentieth Article: so then you sweare no further to preserve the Articles of Religion, so many for number, or deli<g ref="char:EOLhyphen"/>vered in such words; or you sweare no longer to so many Statutes, then these Articles or Statutes are declared against, by the Aslembly or Parlia<g ref="char:EOLhyphen"/>ment. But to acquaint you more fully, (if you know not already,) I doe absolutely affirme in the faith of a Minister of the Cospell, That there was an Exposition written to the Protestation of the 5. of <hi>May,</hi> to this effect; We doe not meane by the Doctrine of the Church, the Discipline or Go<g ref="char:EOLhyphen"/>vernment of the Church, &amp;c. Therefore you see there is no contradiction to be grounded from swearing to preserve our Doctrine, in the Protestati<g ref="char:EOLhyphen"/>on of the 5. of <hi>May;</hi> and to sweare the Reformation of the same Doctrine. The Parliament also excepting (at the Protestation of the 5. of <hi>May</hi>) a<g ref="char:EOLhyphen"/>gainst the Government, and since by the Kings consent, part of the Go<g ref="char:EOLhyphen"/>vernment is put downe, the Bishops made unc pable to sit in Parliament, or to administer an Oath in their Court; so that nothing but their great Revenues, is not in part almost taken from them: Therefore unlesse you will sweare against the Lawes of the Land, and Priviledges of Parliament, and the twentieth Article of Religion, you cannot by vertue of the Prote<g ref="char:EOLhyphen"/>station of the 5. of <hi>May,</hi> preserve your Discipline <hi>in statis quo prius,</hi> nor can
+<pb n="22" facs="tcp:41772:13"/>you deny to sweare to indeavour to reforme the Doctrine of the Church, as it is agreable to Gods Word; therefore there is no lesse ground for any of your Scruples then for this, which continueth no longer in darknesse, then untill the light appeare, which sheweth, that we may reforme and pre<g ref="char:EOLhyphen"/>serve the Doctrine without contradiction.</p>
+            </div>
+            <div n="2" type="article">
+               <head>Second Article.</head>
+               <p>
+                  <hi>That Scruple touching the extirpation of Pre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y is rightly discovered, (but with R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>verence to that h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly Assembly) it seemes not fully covered to the satisfaction of my conscience;</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>dy.</note>
+                  <hi>for first my conscience desires to know what Act it is, that hath taken away the life and soule of this Government. Secondly, to affirme that it is but of humane constitution, is</hi> disputare ex non concessis: <hi>and is a Question which hath beene much controverted, and yet not determined. Thirdly, that the Clergy hath sworne obedience to that Government, is true, but here's an Oath</hi> ex diametro, <hi>can be a law<g ref="char:EOLhyphen"/>full meanes to discharge me of my Oath, I cannot conceive: my conscience is not satis<g ref="char:EOLhyphen"/>fied in neither swearing of c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>osse oathes is any part of repentance, since this is aswea<g ref="char:EOLhyphen"/>ring Age, the better way in my conscience will be to swea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, that we will sweare no more.</hi>
+               </p>
+               <p>In this your discourse there are three thing comprehended.</p>
+               <list>
+                  <item>First,<note place="margin">
+                        <gap reason="illegible" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                        <gap reason="illegible" resp="#keyers" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>aye.</note> Your Objection against the Assembly.</item>
+                  <item>Secondly, Your Proposition or Questions which your conscience makes.</item>
+                  <item>Thirdly, Your resolution or determination, to be better, not to sweare at all.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Of these in Order.</head>
+               <p>First, in regard of the Assembly, you seeme very lowly to complement with giving them the incommunicable Title of the Pope, <hi>[With Reverence to the holy Assembly]</hi> if this were not a complea ent, you would not so under<g ref="char:EOLhyphen"/>value their Exhortation to be unsatisfactory; and indeavour to the utmost of your power to confute and scrone them: to judge them for Hypocrites, or the like, as I shall hereafter let you see, that you may consider with what brotherly charity or conscience you have accused them.</p>
+               <p>Secondly, in regard of your Propositions or Questions which your con<g ref="char:EOLhyphen"/>science makes, I may speak of your conscience, that I perceive that she hath many children; all passions and conceptions of the soule I see are father'd on her, she is like the word <hi>King,</hi> which even Papists pretend to defend, that thereby they may defend themselves: howsoever since your conscience de<g ref="char:EOLhyphen"/>sires to know what Act it is that hath taken away the life and soule of this Government, I answer, It was the Act which put down the <hi>High-Commis<g ref="char:EOLhyphen"/>sion-Court,</hi> and disinabled any Bishop to Gove<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne by Chancellours, &amp;c. This was done by the consent of the King, as also to dispossesse them for sitting in the H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nse of Lords: this to satisfie your first Question.</p>
+               <p>Secondly, your conscience questions or rather argues, That Bishops are but of humane constitution, is <hi>disputare non ex concessis,</hi> and is a Question
+<pb n="23" facs="tcp:41772:13"/>which hath beene much controverted, but nor determined. I answer, though it hath not beene determined by the Popes, yet Bishop <hi>Jewell</hi> hath determined Bishops not to be <hi>Jure divine;</hi> Bishop <hi>Hall</hi> in his first humble Remonstrance confesseth as much in these words, or to this effect. <hi>The Church is glorious without Bishops, but more glorious with Bishops.</hi> And if you like not these determinations, you know that <hi>Calvin</hi> hath determined that Bishops are not of divine constitution. <hi>Germany</hi> in many parts are of the same opi<g ref="char:EOLhyphen"/>nion, the Low-Countreys, and the Reformed Church of <hi>Scotland</hi> hath quite exploded them, and our King hath confirmed their Determinations: And now I may adde, our Assembly hath so determined, and the State decreed in <hi>England,</hi> that they are not to be holden either <hi>jure divi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> or <hi>jure humano.</hi> I am informed that it was treason for a Bishop to hold his Bishoprick but by the Crowne of <hi>England,</hi> which he needed not to doe, if he were a Bishop <hi>jure divino;</hi> this to answer your second Question.</p>
+               <p>Third Question, That we of the Clergy which have sworne for Bishops, should sweare against them? I answer, We sweare to the Bishops as wee sweare to the Lawes of the Land, untill they be altered; to sweare other<g ref="char:EOLhyphen"/>wise, were to sweare against the Priviledges of Parliament: and therefore it is but a conceit to judge this an Oath <hi>ex diametro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> or a crosse Oath, for those that made this Oath, care neither for Crosses nor Cratches, which were used in a Popish manner: let not this Oath be crosse to you, which may advance the Crosse of Christ; for what will Doctrine without true Discipline prevaile, for want whereof, the Church hath beene kept in all the deadnesse, and darknesse, and corruptions, which to preserve, so many contend for, as is lamentable. The Bishops may be compared to the Bra<g ref="char:EOLhyphen"/>seni Serpent, which some thought was politique good, yet was soone abused; and this I dare affirme, that it is absolutely against the Word of God, that Arch-Deacons and Chancellours, &amp;c. should have power from Bishops, to them derived, and the Ministers made cyphers; all that I conceive in the Superiority in the Church Government, as some say, is to be the head of a Presbytrie, by which <hi>Timothy</hi> was ordained, but I find no such Episcopacy which you contend for: this for Answer to the third Question. The third thing unspoken of, Is your Resolution, to judge it better way to sweare not to sweare at all. Sir, I hope you speake not in good earnest: if you doe, then you are far mistaken concerning your Re<g ref="char:EOLhyphen"/>solution: and secondly, I am mistaken concerning my opinion of you. For First, You are mistaken, &amp;c. It is now a time of Judgement, therefore we ought to enter into a Covenant, and sweare for Reformation and Union amongst us, and so seeke God to divert the judgement, 2 <hi>Chron.</hi> 15. <hi>Neb.</hi> 9. Least therefore you should mistake your selfe, if you should with some not
+<pb n="24" facs="tcp:41772:14"/>desire to sweare out of pollicy to prevent, to be ingaged in the Cause: Alas, that is not the way to discharge a good conscience, or secure your selfe, for now Newtrality stinkes in the nostrills of God and man, and <hi>Mer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>z</hi> Curse will not be with-holden: thus you mistake your self if you refuse to swear. Secondly, I am much mistaken concerning you, for I thought you had not favoured the opinion of the Anabaptists and Manichies,<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3. <hi>
+                        <gap reason="illegible" resp="#keyers" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>an.</hi>
+                  </note> who refuse to sweare, <hi>Zanchius</hi> saith, that <hi>Grati<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi> wrireth, <hi>Damnantur a Christo &amp; Apostole juramenta temeraria, quae vulgo habentur in coll<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>quiis, non <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a quae coram magi<g ref="char:EOLhyphen"/>stratu habentur.</hi> Our Saviour forbids common and idle swearing in our or<g ref="char:EOLhyphen"/>dinary talke, and upon sleight occasions: but hee forbids not the lawfull <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se of an Oath before a Magistrate, and are not the Parliament Magistrates, nay, supreme Judicatory. And doe you not remember it is the Doctrine of the Church of <hi>England,</hi> that you must sweare when the Magistrate impo<g ref="char:EOLhyphen"/>seth an Oath? therefore doe not sweare that you will sweare no more which to doe, is a high blasphemy against Gods prerogative, which com<g ref="char:EOLhyphen"/>mands us to sweare, and therefore you must not sweare, not to sweare. <q>Thus Sir you see, that I have answered every Scruple which you have rai<g ref="char:EOLhyphen"/>sed concerning the Covenant, and this I thought had been all that you desired, but I finde (contrary to my expectation) that you have underta<g ref="char:EOLhyphen"/>ken the confutation of the Exhortation, which the Divines made for the taking of the Covenant: and further to speake your pleasure of them and the <hi>Sco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s,</hi> and to interpret the actions of the King, and in the midst of all this, you raise a prevalent Scruple: therefore in regard all the latter part of the writing is not composed with method and order as the former part was, I will answer you in this order.</q>
+               </p>
+               <list>
+                  <item>First, Shew your Criminations or accusations.</item>
+                  <item>Secondly, Answer your Scruples raised against the Exhortation.</item>
+                  <item>Thirdly, Thresh your sheafe (for so you call it) in which as in one bun<g ref="char:EOLhyphen"/>dle you binde up all together.</item>
+               </list>
+               <p>First therefore to speak of your Criminations or Accusations either di<g ref="char:EOLhyphen"/>rectly against the <hi>Assembly</hi> and <hi>Scots,</hi> or by consequence against the King. I east you may thinke I should wrong you, I will write your owne words, which I would have passed by without observation, but that you ground all to be done upon conscience, and therefore you refuse the Covenant; to proceed therefore concerning you<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Crimination, thus you write.</p>
+               <p>
+                  <hi>The Satisfaction which is offered to that Scruple touching the Oath of Allegiance and Supremacy,<note place="margin">
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ddy.</note> is scarce satisfactory, If it be pleaded saith the Exhortation, that this Covenant c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>osseth the Oath of Allegiance and Suprem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cy, there can he nothing fu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ther from truth, for the Covenant bindes all, and more strongly to preserve the Kings Majesties Person and Authority in the preservation and defence of the true
+<pb n="25" facs="tcp:41772:14"/>Religion, and Liberties of the Kingdome.</hi> Bona verba, <hi>of which I may say as</hi> Isaac, The voyce is <hi>Jacobs</hi> voyce, but the hands are the hands of <hi>Esau, for how can my conscience be satisfied of this Scruple, when I in</hi> Words seeme to defend his Person, and yet in Action seeme to destroy his Person <hi>by taking up or approving of Armes taken: The sonne that said to his father I goe sir, and went not, was judged no better, if not worse, then his peremptory bro<g ref="char:EOLhyphen"/>ther, that gave bad words but good actions.</hi>
+               </p>
+               <p>Of all which words of your owne, before I speake of them, I modest<g ref="char:EOLhyphen"/>ly intreate you remember your former words,<note place="margin">M. K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> where you acknowledge God the searcher of the heart, that you write all in good conscience, and in all integrity, &amp;c. if so, with what conscence could you salute the Assembly with these words, <hi>[With Reverence to that holy Assembly]</hi> and yet in this place apply against the Assembly the jearing words of <hi>Da<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us,</hi> which you know how Schoole-boyes expound. And seem to ac<g ref="char:EOLhyphen"/>cuse them of deceit, [<hi>The voyce is</hi> Jacobs <hi>voyce, but the hands are the hands of</hi> Esau] To give occasion of murther, as by accusing your selfe, you seeme to accuse them by this your Application, <hi>[How can my conscience be satisfied, when I in words seeme to defend his Person, and in action I seeme to destroy his person.</hi> You judge them guilty of dissimulation, to apply the Parable against them, of him that said, <hi>Sir, I goe, and went not.</hi> Can you speake all this, and yet thinke or call them a holy As<g ref="char:EOLhyphen"/>sembly; remember that in your Appeale, you say that God, and not you (Mr. <hi>Oddy</hi>) is the searcher of the hearr; how then conceive you an accusation or evill sentence of condemnation, against the Assembly, whom you call with a new stile, <hi>Holy.</hi> Take heed the Proverb be not applied against you, <hi>uno ore c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lidu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ac frigidum afflare,</hi> I wish you had not over-shot your selfe, or shot at some other Mark, or that you could excuse your selfe as <hi>Paul</hi> did, when he said, He wist not, or as the word will carry it, I did not consider that he was the high Priest: so you did not consider that the Assembly are Reverend, as you did complement; for they are no fit Object of scorn: thus much of your Accusation of the the Assembly.</p>
+               <p>Secondly, And if your conscience could dispence so to prevaricate against the Assembly of Divines, yet with what good conscience can you call the <hi>Scots</hi> our <hi>Deare Brethren,</hi> and yet first declare that their good successe was no warrantable Argument for the like future Pra<g ref="char:EOLhyphen"/>ctises, as you write, these are your words.</p>
+               <p>
+                  <hi>For that of our Brethren of</hi> Scotland, Exempla illustrant non probant,<note place="margin">M. Od<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note>
+                  <hi>neither is present successe a warrantable Argument for the like future practises. But it is said that the King in Parliament, Adjudged that our Deare Brethren
+<pb n="26" facs="tcp:41772:15"/>in</hi> Scotland, <hi>had done as good Subjects; Princes favour vouchsafed to their people, should rather promote affection, and good will of their Subjects, then incourage them to disobedience.</hi>
+               </p>
+               <p>Here is like future practices which you sweare to condemne, which me thinkes contradicts your owne words;<note place="margin">M. Kaye</note> in that you say, That the King in Parliament declared that they had done nothing amisse, which if they had not done, me thinks your conscience should bid you be silent in this which concerns you not, (being a private man) to med<g ref="char:EOLhyphen"/>dle with the whole State of a Kingdome, as your conscience bids you before to speake concerning your owne particular.</p>
+               <p>The Act of Oblivion so limits all discourse of this nature, and your Protestation bindes you, together with the Law of the Land, that I cannot but wonder how you could speake these words, <hi>[Princes favour should rather promote affection and good will to their Subjects, then encourage them to disobedience:]</hi> Thus far of your Crimination against the <hi>Scots.</hi>
+               </p>
+               <p>But if confidences, passion, or want of true Information might <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<g ref="char:EOLhyphen"/>casion you to uncover your Brethrens nakednesse, yet with what good conscience could you speake these words of the King; that his Act by you must be thus interpreted in these words.</p>
+               <p>
+                  <hi>This was a favour vouchsafed rather to appease the Tumult, then approve of their actions.</hi>
+                  <note place="margin">M. Oddy</note>
+               </p>
+               <p>If there were a <hi>Tumult raised,</hi> it was occasioned by the thundering of <hi>New Canons,</hi>
+                  <note place="margin">M. Kaye.</note> and breaking of the Lawes, which his Majesty well per<g ref="char:EOLhyphen"/>ceiving, made such an Act as might secure Subjects of their Liberties and Religion; and therefore did justly cast out the troublers of <hi>Israel:</hi> the movers of the Tumult having a more pious then polliticke end in what they did though you doe not seeme so clearely to apprehend it.</p>
+               <p>This which you speake, (if said by some other) would savour of Sedition and Disloyalty, but I spare you, though you may see against whom you have shot your bolt, if at the <hi>Head:</hi> Thus far of your cri<g ref="char:EOLhyphen"/>minations.</p>
+               <p>Secondly, according to promise to speake of your Scruples, one whereof is,</p>
+               <p>
+                  <hi>That the Oath of Allegiance seemes to bee much straitned by this Cove<g ref="char:EOLhyphen"/>nant,</hi>
+                  <note place="margin">M. Oddy</note>
+                  <hi>&amp;c.</hi>
+               </p>
+               <p>The Oath of Allegiance is not straitned but strengthned by the Co<g ref="char:EOLhyphen"/>venant, for it sweares us <hi>ad legem,</hi>
+                  <note place="margin">M. Kaye.</note> which the King sweares unto; and if any command should come forth contrary to the Law, our perform<g ref="char:EOLhyphen"/>ing of it were not obedience but disobedience; as if one that hath not taken Orders, should Baptize and Administer the Sacrament, though
+<pb n="27" facs="tcp:41772:15"/>the action (lawfully done) be good, yet otherwise it is not obedience but disobedience to the Law. To take this Covenant bindes us to the Parliament, which preserves both King and Law, and so it streng<g ref="char:EOLhyphen"/>thens the Oath of Allegiance.</p>
+               <p>
+                  <hi>In the Protestation, in the first place we sweare to defend the Kings person and Authority before the Priviledges of Parliament, according to that of</hi> Peter,<note place="margin">M. Oddy.</note> Be Subject to the King, as Supreme: <hi>Here the Order is inverted to the King as Inferiour.</hi>
+               </p>
+               <p>This Scruple may more properly be called a Cavill th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n a Scruple;<note place="margin">M. Kaye.</note> if you will contend for words, you know what <hi>Gato</hi> saith, <hi>Conira ver<g ref="char:EOLhyphen"/>bosis noli</hi>— To answer you therefore, If naming the Parliament before the King, preferre them before him as you would seeme to pretend: then I aske you, what thinke you Christ meant when he said, <hi>Give un<g ref="char:EOLhyphen"/>to Caesar the things that are Caesars, and unto God the things that are Gods?</hi> Did Christ in thus placing the words preferre Caesar before God? be<g ref="char:EOLhyphen"/>cause he named Caesar first, seeing the Apostle saith, <hi>It is better to obey God then man.</hi>
+               </p>
+               <p>
+                  <hi>That Scruple that is done without the Kings consent, is very prevalent,</hi>
+                  <note place="margin">M. Oddy</note>
+                  <hi>and seemes scarcely removed by the present Instances of that of the Protestation, where it is said, that his Maj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sty did not except against it; argues rather the lawfu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sse of that: and this to be so much the more unlawfull, by how much his Majesty opposeth.</hi>
+               </p>
+               <p>Though this may seem to be a prevalent Scruple in your judgement,<note place="margin">M. Kaye</note> in regard that you say, That the Assembly could scarcely remove it; and secondly, in regard by your Argument you desire to uphold it, yet I am incouraged to encounter with it; and by another Argument, which if it prove stronger, I hope that which the Assembly hath scarce<g ref="char:EOLhyphen"/>ly removed, with a little more help may bee quite removed out of your fancy.</p>
+               <p>My Argument which I draw from the very same words you raise your Argument, is this.</p>
+               <p>Every one hath Right and Liberty for what hee doth, not to aske anothers consent, least he betray his owne Liberty.</p>
+               <p>But the Parliament hath right and Liberty with asking consent of the King, to make the Protestation the 5. of <hi>May, Ergo,</hi> the Parliament ought not to aske consent of the King or of any other for making the Protestation the 5. of <hi>May,</hi> least they should betray their owne Liber<g ref="char:EOLhyphen"/>ties and Priviledges: here followes the second Argument.</p>
+               <p>If the Parliament had liberty and priviledge to make the Protesta<g ref="char:EOLhyphen"/>tion
+<pb n="28" facs="tcp:41772:16"/>the 5. of <hi>May,</hi> without consent or approbation, then they had liberty to make the Covenant.</p>
+               <p>But they had priviledge to make the Protestation the 5. of <hi>May, Er<g ref="char:EOLhyphen"/>go,</hi> They had liberty to make the Covenant, without asking consent or approbation of any.</p>
+               <p>Therefore you see that your Argument is grounded upon a sandy foundation, That the Exhortation affirming that the Protestation was made without the Kings consent, argues the Authority of the Parlia<g ref="char:EOLhyphen"/>ment, in regard the King did not object, and that there was no diffe<g ref="char:EOLhyphen"/>rence then betweene the King and the Parliament; therefore if they had apprehended a necessity of his Approbation, they would have had his Confirmation. And if he had conceived, then that they had done it Illegally, and against his Priviledge, the King must needes have ob<g ref="char:EOLhyphen"/>jected against it, though it had beene never so good: Therefore that the Parliament did not aske the Kings consent, nor the King did not pleade, that it not could be lawfull without his consent, s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an absolute Argument which satisfies my conscience, That both the Covenant and Protestation are Legally made. And therefore in regard the King did not oppose it, it is a prevalent Argument that the King knew it was the Parliaments Priviledge, and therefore they did not aske his con<g ref="char:EOLhyphen"/>sent, nor he did not oppose against them. But you say now the King objected: I answer, It is more then I know, yet I know there are some that objects against the being of the Parliament it selfe, though by Law it is established, and yet I heare the King acknowledgeth them to be a Parliament, whereby he confesseth their Liberty, (as I conceive) to make an Oath or Covenant, as they made the Protestation the 5. of <hi>May.</hi> To prove the validity of your Scruple, which you thinke so prevalent, consider further.</p>
+               <p>
+                  <hi>Mr Oddy,</hi> Did you after you were made a full Minister ask liberty to Baptize, or if you should aske any mans consent, would it not argue you were not a full Minister: or must a Tenant ask his Landlords con<g ref="char:EOLhyphen"/>sent to goe into his house, or to repaire it, after hee hath made him a Lease of it, untill the Lease be expired: Then Mr. <hi>Oddy,</hi> if you confesse those Instances to be good, then you must needs confesse that the Par<g ref="char:EOLhyphen"/>liament asking no consent of the King, in the Protestation of the 5. of <hi>May,</hi> and in making the Covenant, is a strong Argument, that it was their Right and Priviledge to make the Protestation, the King not objecting: As it is an Argument that a man is a Tenant of a house, when his Landlord which oweth the house no way objects against him,
+<pb n="29" facs="tcp:41772:16"/>nor labours to dispossesse him, in such a Case, silence is an Argument of consent or approbation, of possessing a mans right, &amp;c. The King therefore being silent at the making of the Protestation the 5. of <hi>May,</hi> is an Argument that the Par<g ref="char:EOLhyphen"/>liament had power to make that Protestation, and then I am sure they have power to make this Covenant. That <hi>Nehemi<g ref="char:EOLhyphen"/>ah</hi> and <hi>Ezra</hi> had commission (as you say) for all they did, hath no ground out of Gods Word, for the people complain, <hi>Neh.</hi> 9.36, 37. <hi>Behold we are servants this day: and for the Land which thou gavest unto our Fathers, we are servants in it, and it yeeldeth much increase unto the Kings which thou hast set over us, because of our sins; Also they have dominion over our bodies, and over our cattle at their pleasure, and we are in great distresse; and because of all this we make a sure Covenawt.</hi> You see then that because the people were under oppression of Kings, their Magistrate <hi>Nehemiah</hi> made a Covenant; so then there was no consent of the King in that place. Neither doe I finde in 7. of <hi>Ezra</hi> (as you pretend) any commission gi<g ref="char:EOLhyphen"/>ven to <hi>Ezra</hi> concerning a particular Covenant: For it were strange if a Heathen King should grant a commission against himselfe, or to approve of their Religion. Howsoever, I say, we have more liberty then <hi>Nehemiah</hi> or <hi>Ezra,</hi> for wee have a Parliament and Assembly, Magistrates and Ministers con<g ref="char:EOLhyphen"/>vened together for Reformation of Church and State; to pre<g ref="char:EOLhyphen"/>serve our Liberties, Lawes, and Religion, above all to be pri<g ref="char:EOLhyphen"/>zed. They were under the subjection of a heathenish King, bound to performe no Covenants with them; we have his Majesty sworne to rule by his Lawes, and therefore we have a great occasion to make a Covenant.</p>
+               <p>One thing yet remaines in Answer to your Scruples, which is the third and last particular, which you call the binding up of your Sheafe.</p>
+               <p>
+                  <hi>So then to bind up this Sheafe.</hi>
+               </p>
+               <list>
+                  <item>
+                     <hi>First, Because I am ignorant what their Discipline is.</hi>
+                  </item>
+                  <item>
+                     <hi>Secondly, Because it seemes to maintaine a changeable Doctrine, and change<g ref="char:EOLhyphen"/>able Discipline.</hi>
+                  </item>
+                  <pb n="30" facs="tcp:41772:17"/>
+                  <item>
+                     <hi>Thirdly, It sweares the preservation and Reformation of the same Doctrine.</hi>
+                  </item>
+                  <item>
+                     <hi>Fourthly, Because it seemes to impugne the former Protestation.</hi>
+                  </item>
+                  <item>
+                     <hi>Fifthly, Because it seemes to bring me within the compasse of perjury.</hi>
+                  </item>
+                  <item>
+                     <hi>Sixthly, Because the King is not onely not consenting, but reciting, there<g ref="char:EOLhyphen"/>fore, my conscience th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> informed, bindes and bids me forbeare to sweare.</hi>
+                  </item>
+               </list>
+               <q>
+                  <l>Si tu quid rectius istis candidus imperti.</l>
+               </q>
+               <p>Though this your Sheafe be stuffed with severall Gleanes which you have gathered together out of your former Scru<g ref="char:EOLhyphen"/>ples already answered,<note place="margin">M. Kaye.</note> I cannot doe lesse then tell you, that in this your last Muster, you doe but ralley up your scatte<g ref="char:EOLhyphen"/>red company of Malignant Scruples, either to strengthen your Cause, or at least with this your last volley to continue to alarum the Countrey people, (too long seduced or misled) with the great report of the number of six Scruples: and that there is no such cause either hereby to affright them, or confirme them in Malignancy, I desire to set a true Cha<g ref="char:EOLhyphen"/>racter upon the head of every one of them.<note place="margin">A true Character of M. Od. Scruples.</note> The first or Captaine of these six Scruples, is Ignorance, which led you out of the way; which ignorance must needs be either <hi>purae negationis,</hi> or <hi>pravae dispositionis,</hi> either of which, Countrey people, and not Ministers may most tollerably pretend. The second is a conjecture without cause. The third is an offence where no offence is committed. The fourth is a slander, accusing the Covenant to oppose his most dearest Brother or Protestation, for whose defence it was made. The fifth is grosse untruth, which all the world may know it by. The sixth is Faction or sedition, to suggest accusation of a breach betwixt the King and the Parliament, whereby you make your selfe the Judge, and condemnes the Judges of the King<g ref="char:EOLhyphen"/>dome, or the Highest or supreme Judicatory. But least you may thinke I be too short with you by way of Recapitulati<g ref="char:EOLhyphen"/>on, I returne you a more particular, though short answer.</p>
+               <list>
+                  <item>First,<note place="margin">
+                        <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </note> to informe your ignorance concerning the Scottish Government, that you might not therefore Scruple; we swear I conceive the approbation of it, onely as it is directly or by just consequence agreeable to the holy Word of God.</item>
+                  <item>Se<g ref="char:EOLhyphen"/>condly,
+<pb n="31" facs="tcp:41772:17"/>That there is no changeable Doctrine nor Discipline by us to be thought of, so far as essentiall parts of Discipline and Doctrine is to be approved of; the Covenant grounds all out of Gods holy Word, which is unchangeable.</item>
+                  <item>Third<g ref="char:EOLhyphen"/>ly, That Preservation and Reformation of Doctrine implies contradiction, I answer, It doth no more oppose, then to sweare to preserve a house, and sweare to set a prop under it when it is ready to fall.</item>
+                  <item>Fourthly, That the Covenant doth not impugne the Protestation, I must againe tell you it wa<g ref="char:EOLhyphen"/>made to defend it.</item>
+                  <item>Fifthly, That by swearing to the Cove<g ref="char:EOLhyphen"/>venant, you should be perjured, is so grosse an untruth, that you having taken the Protestation, will be perfidious if you oppose the Covenant.</item>
+                  <item>Sixthly, That the King is resisting I acknowledge, (if there should bee just cause for it) this might be a Scruple; for the clearing therefore of this Doubt, I answer, That though it be proved that the King doth resist the Covenant, the Scruple will be of no more force, (except the Covenant of it selfe were evill,) then the Kings resisting <hi>Daniel</hi> for praying, or the Apostles for<note n="*" place="margin">
+                        <gap reason="illegible" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </note> Preaching to be evill. You shew no cause, nor I know none, why the King should resist the Covenant, which in respect of the King is full of Loyalty; seeing in the preservation of the Refor<g ref="char:EOLhyphen"/>med Religion, it sweares to assist the King.</item>
+               </list>
+               <p>Againe, I know nothing in the Covenant, whether it be extirpation of Prelacy, Popery, &amp;c. but the King ei<g ref="char:EOLhyphen"/>ther hath done it in <hi>Scotland,</hi> or professed it in <hi>England.</hi>
+               </p>
+               <p>Thirdly, I answer, If the King doe resist, the Parliament is resisting, for untill the Parliament be dissolved, the King cannot resist the Parliament, no more then the Head doth the Members.</p>
+            </div>
+            <div type="conclusion">
+               <pb n="32" facs="tcp:41772:18"/>
+               <head>To Conclude.</head>
+               <p>YOu see (Mr. <hi>Oddy</hi>) that your Sheafe is soone threshed, and if you please to winnow it with the Fan of Reformation, I hope you will up<g ref="char:EOLhyphen"/>on second thoughts finde, that though you pre<g ref="char:EOLhyphen"/>tend Conscience, yet if that which you have written did but proceed from a mis-informed conscience, I should not question; but you may give God the glory, to acknowledge, that carnall hope, and feare, and not conscience have suggested matter to raise your Scruples, or rather Cavills a<g ref="char:EOLhyphen"/>gainst the Covenant. Therefore, as I feare in this way you have beene too officious in writing against the Covenant, out of love, without pre<g ref="char:EOLhyphen"/>judice, accept of this true Character of the Natio<g ref="char:EOLhyphen"/>nall Covenant, whereby you may bee better re<g ref="char:EOLhyphen"/>reconciled with the Covenant, and see lesse cause for Boasting that you are not satisfied in your Scruples.</p>
+            </div>
+         </div>
+         <div type="statement">
+            <pb facs="tcp:41772:18"/>
+            <head>A true Character of the Covenant.</head>
+            <p>
+               <hi>It is,</hi>
+               <lb/> The Union of the three Kingdomes.<lb/> The Reformer and Supporter of Church and State.<lb/> The true Declaration of the Cause that ingageth Gods people.<lb/>
+               <hi>Whereby,</hi>
+               <lb/> Christs Kingdome is advanced.<lb/> Higher Powers made Subject to Christ their King.<lb/> People sworne Subject to such High Powers.<lb/> Magistrates and all Officers qualified.<lb/> Ministers made Apostollically Reformed.<lb/> Faith and Repentance by all sorts to be professed.<lb/> Justice solemnely sworne to bee executed.<lb/> Gods word made the foundation of faith &amp; obedience.<lb/>
+               <hi>Onely to this end, that</hi>
+               <lb/> Gods present Judgements might bee diverted.<lb/> Popery or Antichrist throwne downe.<lb/> Heresie and Schisme condemned.<lb/> Idolatry quite routed out.<lb/> All Prophanesse justly punished.<lb/> Oppression absolutely removed.<lb/>
+               <hi>So that we might<lb/> have such</hi>
+               <lb/> A Bulwarke of Gods providence to the Kingdome.<lb/> A Hedge about the Church and Vineyard.<lb/> That a blessed Peace may be concluded, to preserve the three Nations in<lb/> Faith and Love, to live to Gods Glory.<lb/>
+               <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
